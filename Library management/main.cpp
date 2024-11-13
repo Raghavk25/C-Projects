@@ -1,5 +1,6 @@
-/* C++ project to make a book library management system.
-Made by Raghav Khanna */
+// MIT License
+// Copyright (c) 2024 Raghav Khanna
+// See the LICENSE file in the root of the repository for full license details.
 
 #include <iostream>
 #include <fstream>
